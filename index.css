@@ -547,6 +547,7 @@ footer span{
     .butt1:hover{
         background: #162542;
         cursor: pointer;
+        color: #FFFFFF;
     }
 
     .butt2:hover{
